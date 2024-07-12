@@ -32,7 +32,6 @@ Methodology:
 Matplotlib: Used to create histograms for both list and NumPy array representations of pixel values.
 
 4. Output
-5. 
 The script will print the total number of pixels and example pixel values.
 It will save the pixel values and their corresponding color names to pixel_info.txt.
 Histograms of the RGB channels will be displayed.
